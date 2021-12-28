@@ -1,0 +1,25 @@
+title: You're Wrong About - The Footnotes
+author: Georgia
+description: An episode-by-episode compendium of the pop-culture references in the podcast You're Wrong About.
+baseurl: ""
+url: https://yourewrongaboutthefootnotes.github.io
+github_username: yourewrongaboutthefootnotes
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+sass:
+  sass_dir: assets/css
+
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

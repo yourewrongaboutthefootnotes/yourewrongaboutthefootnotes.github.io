@@ -10,6 +10,7 @@ Listen to the podcast [here](https://podcasts.apple.com/us/podcast/matthew-shepa
 > one of the details that always stuck with me from - I think this is from The Laramie Project or one of the documentaries about Matthew Shepard that I watched at the time - was that he wore braces
 
 6:33 🎥 [The Laramie Project](https://en.wikipedia.org/wiki/The_Laramie_Project_(film))
+
 🎥 [One of the documentaries](https://en.wikipedia.org/wiki/Cultural_depictions_of_Matthew_Shepard#Documentaries)
 
 ----

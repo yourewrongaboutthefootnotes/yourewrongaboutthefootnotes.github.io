@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Afterschool Specials"
-date:   20XX-XX-XX 01:00:00 +0100
+date:   2018-05-05 01:00:00 +0100
 ---
 Listen to the podcast [here](https://podcasts.apple.com/us/podcast/afterschool-specials/id1380008439).
 

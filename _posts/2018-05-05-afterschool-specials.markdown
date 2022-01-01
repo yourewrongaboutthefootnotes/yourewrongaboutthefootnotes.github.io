@@ -45,7 +45,7 @@ Listen to the podcast [here](https://podcasts.apple.com/us/podcast/afterschool-s
 
 > I think there was one that we watched which - I don't know where it came from - but was called "Good Kids Die Too" or something like that
 
-8:40 📺 I can't find this one! If you know what this is, please submit it [here[(https://github.com/yourewrongaboutthefootnotes/yourewrongaboutthefootnotes.github.io/issues).
+8:40 📺 I can't find this one! If you know what this is, please submit it [here](https://github.com/yourewrongaboutthefootnotes/yourewrongaboutthefootnotes.github.io/issues).
 
 ----
 

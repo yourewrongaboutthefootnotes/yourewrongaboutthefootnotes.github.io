@@ -86,4 +86,4 @@ Listen to the podcast [here](https://podcasts.apple.com/us/podcast/jeffrey-dahme
 
 > once again, y'know, as we talked about with D.A.R.E, let's take a page from Iceland's book and have some municipally funded chess clubs and activities for the kids
 
-57:26 📚 
+57:26 🎙️ [D.A.R.E.](/2018/08/18/d-a-r-e.html)

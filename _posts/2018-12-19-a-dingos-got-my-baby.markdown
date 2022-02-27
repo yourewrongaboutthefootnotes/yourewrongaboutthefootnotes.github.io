@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  '"A Dingo's Got My Baby"'
+title:  "A Dingo's Got My Baby"
 date:   2018-12-19 01:00:00 +0100
 ---
 Listen to the podcast [here](https://podcasts.apple.com/us/podcast/a-dingos-got-my-baby/id1380008439?i=1000465289927).

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Kitty Genovese and "Bystander Apathy'
+title:  'Kitty Genovese and "Bystander Apathy"'
 date:   2019-06-20 01:00:00 +0100
 ---
 Listen to the podcast [here](https://podcasts.apple.com/podcast/kitty-genovese-and-bystander-apathy/id1380008439?i=1000465289945).
